@@ -1,0 +1,1 @@
+Retail Sales Forecasting Dashboard: Built a predictive analytics solution to forecast future sales using historical transaction data. Cleaned and engineered features with Python, trained time-series models (Prophet/ARIMA), and visualized insights in an interactive Power BI dashboard, delivering clear business recommendations.
